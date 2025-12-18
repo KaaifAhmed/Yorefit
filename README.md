@@ -1,4 +1,4 @@
-# Yorefit – Ecommerce Web Application
+# Yorefit: Ecommerce Web Application
 
 Yorefit is a full-stack ecommerce web application developed for a fictional fitness and lifestyle brand. The project focuses on delivering a clean, user-friendly shopping experience while demonstrating practical web development skills, including frontend design, backend logic, and overall application structure.
 
